@@ -24,3 +24,7 @@ dist-ssr
 *.sw?
 
 *.env
+
+.gemini
+gha-creds-*.json
+.gemini/
