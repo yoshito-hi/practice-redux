@@ -1,0 +1,13 @@
+changelog:
+  exclude:
+    labels:
+      - ignore-for-release
+      - internal
+      - skip-changelog
+    authors:
+      - dependabot
+      - renovate
+  categories:
+    - title: "🎯 今回対応した Issue / PR"
+      labels:
+        - "*"
