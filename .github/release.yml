@@ -8,6 +8,42 @@ changelog:
       - dependabot
       - renovate
   categories:
-    - title: "🎯 今回対応した Issue / PR"
+    - title: 🚀 New Features
       labels:
-        - "*"
+        - feat
+        - feature
+        - enhancement
+        - new
+    - title: 🐛 Bug Fixes
+      labels:
+        - fix
+        - bugfix
+        - bug
+        - hotfix
+    - title: 📚 Documentation
+      labels:
+        - docs
+        - documentation
+        - doc
+    - title: ♻️ Refactoring
+      labels:
+        - refactor
+        - refactoring
+    - title: ⚡ Performance
+      labels:
+        - perf
+        - performance
+    - title: 🧪 Testing
+      labels:
+        - test
+        - testing
+    - title: 🔧 Maintenance
+      labels:
+        - chore
+        - maintenance
+        - ci
+    - title: ⚠️ Breaking Changes
+      labels:
+        - breaking
+        - breaking-change
+        - BREAKING
